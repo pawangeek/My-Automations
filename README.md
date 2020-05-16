@@ -15,3 +15,11 @@ Start Auto clicking as a thread you can define delay for time lapse between clic
 
 * Press F8 to start/stop clicking
 * Press F7 to exit from it
+
+### Autoshoter
+
+Just need to define two points over same screen and you get your screenshot.
+
+* Press F4 on any screenn
+* Press two mouse clicks and over that screen
+* Either shut program manually or remove that while loop in main

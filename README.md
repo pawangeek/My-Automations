@@ -1,6 +1,6 @@
 # My_Automations
 
-### Autotyper
+### AutoTyper
 
 Just stretch over image, it will type on prescribed point
 
@@ -16,7 +16,7 @@ Start Auto clicking as a thread you can define delay for time lapse between clic
 * Press F8 to start/stop clicking
 * Press F7 to exit from it
 
-### Autoshoter
+### AutoShoter
 
 Just need to define two points over same screen and you get your screenshot.
 

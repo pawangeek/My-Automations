@@ -20,6 +20,13 @@ Start Auto clicking as a thread you can define delay for time lapse between clic
 
 Just need to define two points over same screen and you get your screenshot.
 
-* Press F4 on any screenn
+* Press F4 on any screen
 * Press two mouse clicks and over that screen
 * Either shut program manually or remove that while loop in main
+
+### AutoSeacrcher
+
+Just need to define image points and you will get same query searched
+
+* Press F2 on any screen
+* Press two mouse clicks over any text
